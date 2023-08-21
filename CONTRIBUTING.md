@@ -6,6 +6,10 @@ You can use [StackBlitz Codeflow](https://stackblitz.com/codeflow) to fix bugs o
 
 [![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow.svg)](https://pr.new/vitejs/vite)
 
+OR, You can use [Gitpod](https://www.gitpod.io/), When using Gitpod, the Vite repository will be cloned for you in **your Preferred IDE & with your IDE Customizations**. Experience seamless cloning of the Vite repository, complete with a built-in watch mode for testing changes. For more details, dive into the insightful [Gitpod docs](https://www.gitpod.io/docs/)
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
+
 ## Repo Setup
 
 To develop locally, fork the Vite repository and clone it in your local machine. The Vite repo is a monorepo using pnpm workspaces. The package manager used to install and link dependencies must be [pnpm](https://pnpm.io/).
